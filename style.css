@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+canvas{
+    background-color: azure;
+    border-style:ridge;
+    border-width: 4;
+}
+b{
+    color: red;
+}
+ 
+
+h1{
+    font-size: 30px;
+    color:maroon;
+    font-family: sans-serif;
+}
+h4{
+    color:brown;
+    font: size 15px;
+    
+}
